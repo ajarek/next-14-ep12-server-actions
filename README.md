@@ -1,7 +1,7 @@
-<img width="200" alt="Zrzut ekranu 2023-11-03 204144" src="https://github.com/ajarek/next-14-ep12-server-actions/assets/61388692/54548501-96ab-4888-95a9-f84a19ef5ed9">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
+<img width="200" alt="Zrzut ekranu 2023-11-03 204144" src="https://github.com/ajarek/next-14-ep12-server-actions/assets/61388692/54548501-96ab-4888-95a9-f84a19ef5ed9">
 
 ## Getting Started
 First, run the development server:
